@@ -1,0 +1,10 @@
+.image-style{
+    width: 100px;
+    height: 100px;
+    display: block;
+    position: absolute;
+    margin-top: 20px;
+}
+h1{
+    color:blue;
+}
